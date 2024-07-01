@@ -25,6 +25,5 @@ This repository contains a WebGL-based terrain visualization using Three.js, a p
 
 ## Credits
 
-- Developed by [Your Name]
 - Three.js: [https://threejs.org/](https://threejs.org/)
 - jQuery: [https://jquery.com/](https://jquery.com/)
